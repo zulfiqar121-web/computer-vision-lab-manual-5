@@ -50,6 +50,7 @@ Implement Canny edge detection for better accuracy
 Add lane line detection using Hough Transform
 Optimize code structure and remove redundancy
 Extend to real-time video processing
+
 Author
 
 This project is created as part of a Computer Vision lab assignment to understand the fundamentals of edge detection techniques.
